@@ -101,7 +101,7 @@ Observe que não posso garantir a precisão das traduções, o quanto estão atu
 
 - [French / Française](https://github.com/usini/ESP32-Cheap-Yellow-Display-Documentation-FR)
 - [German / Deutsch](https://github.com/paelzer/ESP32-Cheap-Yellow-Display-Documentation-DE)
-- [Portuguese / Português](https://github.com/paelzer/ESP32-Cheap-Yellow-Display-Documentation-Pt-BR)
+- [Portuguese / Português](https://github.com/bruno-cozendey/ESP32-Cheap-Yellow-Display-Documentation-Pt-BR)
 
 Caso queira contribuir com uma tradução, inclua o nome ou o código do idioma no nome do repositório; assim, você poderá adicionar um link para ele aqui.
 
