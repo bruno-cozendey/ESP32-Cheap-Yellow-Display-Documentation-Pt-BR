@@ -28,9 +28,6 @@ Há alguns anos, lancei o [ESP32 Trinity](https://github.com/witnessmenow/ESP32-
 
 Não crio mais produtos de hardware, mas acho que seria interessante se pudéssemos criar o mesmo tipo de comunidade em torno desta tela, na qual as pessoas possam compartilhar exemplos e projetos feitos para ela.
 
-## Como saber se uma tela é um CYD?
-![Árvore de decisão do CYD](http://www.plantuml.com/plantuml/png/RP0nJyCm48Nt_8gZNIb3fge3LD2b2q92235UamDRE7PaNuhyxxda7DGgJBs-zxtSE-yJO-IXSzKD6-e8UeVMLyQs1DJrdA6br4JRims-4fW9LiS4bY6JS-47qBTWC052QvEayyCAvA-wS-8vi01F7mS8SVevOxJeUK9zu55QzzP_Nw-exxPmz8tHJzRRsJq4cdo3Pu98oIQsCd4O6WDIbyXF4LN-JNMsYG7UNXyXUAUTLHDfqVeMJWClUfSPrY_OOyPtO_ivUPcfnoMV3iyXJh4cj_MGJd8lEleQkvQKi9TYUT_DvbukXnraIfTQURMT39Nu8kcrXInIwQYO-gCyNwgm6al-ZneTNIRqjLokqS2UV3jqxXS0)
-
 ## Onde comprar?
 
 Compre onde for mais barato para você:
